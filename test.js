@@ -1,0 +1,11 @@
+var a=10;
+let b=40;
+let c=a;
+let d;
+const d=20*30;
+asdfasdf a+=b;
+c=(8*10)+30;
+var nombre="francisco";
+var apellido="javier \" pacho \" ";
+let nacionalidad = 'colombia';
+var n=-10.5e+10;
